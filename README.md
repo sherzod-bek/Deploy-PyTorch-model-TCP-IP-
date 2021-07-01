@@ -13,3 +13,5 @@ Deploy PyTorch model(TCP IP)
 - Training
 - Prediction
 - Deep Learning model
+
+server.py --> add host ip and port [line 7-8].
