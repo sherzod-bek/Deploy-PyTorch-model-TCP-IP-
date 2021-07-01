@@ -4,7 +4,6 @@ Deploy PyTorch model(TCP IP)
 
 <b>Client</b>:
 - python application
-- client.py ->  add server-ip [line43-44].
 
 ![screenshot](https://user-images.githubusercontent.com/25683144/124165276-8ab96c00-dadc-11eb-90e6-a1af15e3022a.png)
 
@@ -14,4 +13,8 @@ Deploy PyTorch model(TCP IP)
 - Prediction
 - Deep Learning model
 
-server.py --> add host ip and port [line 7-8].
+
+
+<b>client.py</b> ->  add server-ip [line43-44].
+
+<b>server.py</b> --> add host ip and port [line 7-8].
