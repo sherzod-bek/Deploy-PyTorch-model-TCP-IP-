@@ -4,7 +4,7 @@ Deploy PyTorch model(TCP IP)
 
 <b>Client</b>:
 - python application
-- ![screenshot](https://user-images.githubusercontent.com/25683144/124165276-8ab96c00-dadc-11eb-90e6-a1af15e3022a.png)
+![screenshot](https://user-images.githubusercontent.com/25683144/124165276-8ab96c00-dadc-11eb-90e6-a1af15e3022a.png)
 
 
 <b>Server</b>:
